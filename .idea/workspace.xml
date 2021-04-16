@@ -65,8 +65,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/project610/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-690">
-              <caret line="230" column="71" selection-start-line="230" selection-start-column="71" selection-end-line="230" selection-end-column="71" />
+            <state relative-caret-position="170">
+              <caret line="270" lean-forward="true" selection-start-line="270" selection-end-line="270" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#6436#6437#0" expanded="true" />
@@ -124,6 +124,9 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -139,6 +142,7 @@
     <option name="width" value="1612" />
     <option name="height" value="876" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
@@ -270,7 +274,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="3832" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.2153518" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -282,7 +285,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3292683" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32962447" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39875388" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39875388" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -293,7 +296,7 @@
       <window_info anchor="bottom" id="Profiler" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32917964" />
-      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="14" visible="true" weight="0.32917964" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.13272922" />
@@ -334,8 +337,8 @@
     <entry file="file://$PROJECT_DIR$/src/sample/Controller.java" />
     <entry file="file://$PROJECT_DIR$/src/com/project610/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-690">
-          <caret line="230" column="71" selection-start-line="230" selection-start-column="71" selection-end-line="230" selection-end-column="71" />
+        <state relative-caret-position="170">
+          <caret line="270" lean-forward="true" selection-start-line="270" selection-end-line="270" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#6436#6437#0" expanded="true" />
