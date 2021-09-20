@@ -1,2 +1,5 @@
+.git
 out/
 META-INF/
+*.iml
+.idea
